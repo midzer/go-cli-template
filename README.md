@@ -2,8 +2,8 @@
 ![GitHub](https://img.shields.io/github/license/midzer/go-cli-template)
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/midzer/go-cli-template)
 ![GitHub all releases](https://img.shields.io/github/downloads/midzer/go-cli-template/total)
-![GitHub CI Status](https://img.shields.io/github/actions/workflow/status/midzer/go-cli-template/ci.yml?label=CI)
-![GitHub Release Status](https://img.shields.io/github/actions/workflow/status/midzer/go-cli-template/release.yml?label=release)
+![GitHub CI Status](https://img.shields.io/github/actions/workflow/status/midzer/go-cli-template/ci.yml?branch=master&label=CI)
+![GitHub Release Status](https://img.shields.io/github/actions/workflow/status/midzer/go-cli-template/release.yml?branch=master&label=release)
 
 # go-cli-template
 
