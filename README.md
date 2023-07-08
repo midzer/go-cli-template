@@ -1,9 +1,6 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/midzer/go-cli-template?style=social)
-![GitHub](https://img.shields.io/github/license/midzer/go-cli-template)
-![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/midzer/go-cli-template)
-![GitHub all releases](https://img.shields.io/github/downloads/midzer/go-cli-template/total)
-![GitHub CI Status](https://img.shields.io/github/actions/workflow/status/midzer/go-cli-template/ci.yml?branch=master&label=CI)
-![GitHub Release Status](https://img.shields.io/github/actions/workflow/status/midzer/go-cli-template/release.yml?branch=master&label=release)
+[![Latest Release](https://img.shields.io/github/release/midzer/go-cli-template.svg)](https://github.com/midzer/go-cli-template/releases)
+[![Build Status](https://github.com/midzer/go-cli-template/workflows/release/badge.svg)](https://github.com/midzer/go-cli-template/actions)
+[![Go ReportCard](https://goreportcard.com/badge/midzer/go-cli-template)](https://goreportcard.com/report/midzer/go-cli-template)
 
 # go-cli-template
 
