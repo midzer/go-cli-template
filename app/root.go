@@ -15,7 +15,7 @@ func CLI(args []string) int {
 		fmt.Fprintf(os.Stderr, "Runtime error: %v\n", err)
 		return 1
 	}
-	
+
 	return 0
 }
 

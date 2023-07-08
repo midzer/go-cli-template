@@ -1,10 +1,11 @@
 package main
 
 import (
-    "os"
+	"os"
 
-    "github.com/midzer/go-cli-template/app"
+	"github.com/midzer/go-cli-template/app"
 )
+
 func main() {
-    os.Exit(app.CLI(os.Args[1:]))
+	os.Exit(app.CLI(os.Args[1:]))
 }
